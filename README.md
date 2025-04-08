@@ -25,9 +25,10 @@
 | ⚙️ **Backend**          | ![Next.js API Routes](https://img.shields.io/badge/Next.js_API-000?style=for-the-badge&logo=next.js&logoColor=white)                                                                                                                        |
 | 🤖 **AI Model**         | ![Google Gemini API](https://img.shields.io/badge/Google_Gemini_API-4285F4?style=for-the-badge&logo=google&logoColor=white)                                                                                                                 |
 | 🔐 **Authentication**   | ![Clerk](https://img.shields.io/badge/Clerk-5C5CFF?style=for-the-badge&logo=clerk&logoColor=white)                                                                                                                                           |
-| 💾 **Database**         | ![Neon](https://img.shields.io/badge/Neon_DB-22C3E6?style=for-the-badge&logo=postgresql&logoColor=white)                                                                                                                                    |
+| 💾 **Database**         | ![Convex](https://img.shields.io/badge/Convex-4F46E5?style=for-the-badge&logo=convex&logoColor=white)                                                                                                                                        |
 | ☁️ **Hosting**          | ![Vercel](https://img.shields.io/badge/Vercel-000?style=for-the-badge&logo=vercel&logoColor=white)                                                                                                                                           |
 | 🛡️ **Type Safety**      | ![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)                                                                                                                           |
+                                                                                                                   |
 
 
 ---
