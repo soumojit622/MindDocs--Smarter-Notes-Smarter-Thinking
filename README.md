@@ -1,67 +1,87 @@
-# 📄 Elegant PDF Upload Dialog
+# 🧠 MindDocs — AI-Powered PDF Note-Taking Application
 
-A beautifully crafted, modern PDF upload dialog component built with **React**, **Radix UI**, **Tailwind CSS**, and **Lucide Icons**. This component provides a smooth, intuitive user experience and fits seamlessly into light-mode applications with a stunning **purple-blue gradient theme**. ✨
+**MindDocs** is your smart companion for reading and understanding PDFs faster. It empowers users to upload PDFs, ask questions, and take notes efficiently — all powered by AI. With a clean UI, responsive layout, and a seamless experience, MindDocs transforms the way you interact with documents.
 
----
-
-## 🚀 Features
-
-- 🎨 **Aesthetic UI**: Smooth transitions, rounded corners, shadows, and modern gradients.
-- 📁 **PDF File Upload**: Upload `.pdf` files using a simple file picker.
-- ✍️ **Filename Editor**: Input field to rename files before uploading.
-- ⚡ **Responsive Design**: Optimized for all screen sizes (mobile, tablet, desktop).
-- 🔄 **Loading State**: Upload button with animated loading spinner.
-- 🧩 **Lucide Icons**: Clean and consistent icons for better UX.
-- 🟣 **Light Mode Theming**: Styled for light mode compatibility.
-- 🚫 **Usage Limit Handling**: Upload button disables when limit is reached.
+![MindDocs Screenshot](./screenshot.png)
 
 ---
 
-## 🛠️ Tech Stack
+## 🚀 Key Features
 
-| Technology   | Description                         |
-|--------------|-------------------------------------|
-| [React](https://reactjs.org/) | Component-based UI library |
-| [Radix UI Dialog](https://www.radix-ui.com/primitives/docs/components/dialog) | Unstyled, accessible dialog component |
-| [Tailwind CSS](https://tailwindcss.com/) | Utility-first CSS framework |
-| [Lucide Icons](https://lucide.dev/) | Beautifully designed open-source icons |
-| [ShadCN UI](https://ui.shadcn.com/) *(optional)* | Reusable component set built on top of Radix |
-
----
-
-## 🖼️ Demo UI Flow
-
-1. 📤 Click **Upload PDF**
-2. 📂 Choose a file (.pdf)
-3. 📝 Rename your file (optional)
-4. 🔄 Click **Upload** — with loading animation
-5. 🚫 Disabled if limit reached
+- 📄 **Smart PDF Uploading** — Easily upload and manage your PDFs in a slick UI.
+- 🧠 **AI-Powered Q&A** — Ask questions from your PDF and get instant answers.
+- ✍️ **Note-Taking Interface** — Take, save, and manage your notes while reading.
+- 📊 **Usage Tracking** — Know how many PDFs you've uploaded (for free plan users).
+- 🔐 **Plan-Specific Limits** — Free and Unlimited plan handling.
+- 🌈 **Beautiful UI** — Gradient buttons, animations, and elegant design.
+- ⚡ **Super Fast & Responsive** — Works great on any screen size.
 
 ---
 
-## 💡 Customization Ideas
+## 🧰 Tech Stack
 
-- Add file validation (size limits, preview)
-- Enable drag & drop file support
-- Display uploaded file history
-- Add tooltip with PDF upload limits
-- Dark mode support (via Tailwind config or class toggles)
+| Logo | Tech             | Description                            |
+|------|------------------|----------------------------------------|
+| <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" width="24"/> | **React**         | Frontend JavaScript library               |
+| <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/tailwindcss/tailwindcss-plain.svg" width="24"/> | **Tailwind CSS**  | Utility-first CSS framework               |
+| <img src="https://avatars.githubusercontent.com/u/139895814?s=200&v=4" width="24"/> | **ShadCN UI**     | Accessible and beautiful UI components    |
+| <img src="https://raw.githubusercontent.com/radix-ui/branding/main/logo.svg" width="24"/> | **Radix UI**      | Low-level UI primitives (Dialog, Inputs)  |
+| <img src="https://lucide.dev/logo/logo.svg" width="24"/> | **Lucide Icons**  | Consistent and elegant icons              |
+| 🧠 | **AI Integration**| PDF Question Answering & Summarization |
+| <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" width="24"/> | **TypeScript**    | Type-safe development for scalability     |
 
 ---
 
-## 👤 Author
+## 🧠 How It Works
 
-Crafted by [Soumojit Banerjee](https://github.com/SoumojitB)
+1. **Upload a PDF**  
+   Drag or select your PDF document to upload it into the app.
+
+2. **Chat with the PDF**  
+   Ask questions related to the uploaded PDF and receive AI-generated answers.
+
+3. **Take Notes**  
+   Highlight insights and write down your thoughts directly in the app.
+
+4. **Manage PDFs**  
+   View upload limits and manage documents easily (5 PDFs for Free Plan).
+
+5. **Upgrade Plan (Optional)**  
+   Switch to Unlimited Plan for unrestricted PDF uploads and note-taking.
+
+---
+
+## 🌟 Why MindDocs?
+
+> MindDocs is designed for **students**, **researchers**, and **knowledge seekers** who want to **study smarter** and **save time**. Whether you're preparing for exams or digesting a lengthy research paper, MindDocs helps you understand, retain, and organize information faster with AI.
+
+---
+
+## 🖼️ Sample UI Elements
+
+| Element           | Description                                |
+|-------------------|--------------------------------------------|
+| 📤 Upload Modal   | Drag-and-drop UI for PDF files             |
+| 🧠 Chat Interface | Ask AI questions about uploaded content     |
+| ✍️ Notes Panel     | Write and manage notes while you read      |
+| 📊 Usage Bar      | Visual progress for free plan users        |
+| 🚀 Upgrade Prompt | Smoothly animated CTA for unlimited plan   |
+
+---
+
+## 👨‍💻 Created By
+
+Made with 💜 by **Soumojit Banerjee**
 
 - 🐱 GitHub: [@SoumojitB](https://github.com/SoumojitB)
-- 💼 LinkedIn: [linkedin.com/in/soumojit-banerjee](https://www.linkedin.com/in/soumojit-banerjee)
+- 💼 LinkedIn: [Soumojit Banerjee](https://linkedin.com/in/soumojit-banerjee)
 
 ---
 
-## ⚖️ License
+## 📄 License
 
-This project is licensed under the **MIT License** — use it freely for personal and commercial use.
+This project is open source under the [MIT License](./LICENSE). Feel free to fork, contribute, or build your own ideas on top of it!
 
 ---
 
-> If you found this helpful, please consider giving a ⭐ to the repo!
+> Enjoy using **MindDocs**? Show some love by giving it a ⭐ on GitHub!
