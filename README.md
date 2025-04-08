@@ -107,6 +107,8 @@ Feel free to connect with me on:
 
 ## ❤️ **Special Thanks 🙏**
 
+A special thanks to **ChatGPT** for all your support in completing this project! 🌟
+
 ---
 
 > Enjoy using **MindDocs**? Show some love by giving it a ⭐ on GitHub!
