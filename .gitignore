@@ -19,7 +19,7 @@
 # misc
 .DS_Store
 *.pem
-
+upgrade-page.txt
 # debug
 npm-debug.log*
 yarn-debug.log*
