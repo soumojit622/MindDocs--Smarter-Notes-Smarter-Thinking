@@ -2,8 +2,6 @@
 
 **MindDocs** is your smart companion for reading and understanding PDFs faster. It empowers users to upload PDFs, ask questions, and take notes efficiently — all powered by AI. With a clean UI, responsive layout, and a seamless experience, MindDocs transforms the way you interact with documents.
 
-![MindDocs Screenshot](./screenshot.png)
-
 ---
 
 ## 🚀 Key Features
@@ -18,17 +16,19 @@
 
 ---
 
-## 🧰 Tech Stack
+## 🛠️ Tech Stack  
 
-| Logo | Tech             | Description                            |
-|------|------------------|----------------------------------------|
-| <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" width="24"/> | **React**         | Frontend JavaScript library               |
-| <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/tailwindcss/tailwindcss-plain.svg" width="24"/> | **Tailwind CSS**  | Utility-first CSS framework               |
-| <img src="https://avatars.githubusercontent.com/u/139895814?s=200&v=4" width="24"/> | **ShadCN UI**     | Accessible and beautiful UI components    |
-| <img src="https://raw.githubusercontent.com/radix-ui/branding/main/logo.svg" width="24"/> | **Radix UI**      | Low-level UI primitives (Dialog, Inputs)  |
-| <img src="https://lucide.dev/logo/logo.svg" width="24"/> | **Lucide Icons**  | Consistent and elegant icons              |
-| 🧠 | **AI Integration**| PDF Question Answering & Summarization |
-| <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" width="24"/> | **TypeScript**    | Type-safe development for scalability     |
+| **Category**           | **Technology**                                                                                                                                                                                                                                  |
+|------------------------|-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
+| 🎨 **Frontend**         | ![React](https://img.shields.io/badge/React-20232a?style=for-the-badge&logo=react&logoColor=61DAFB) ![TailwindCSS](https://img.shields.io/badge/TailwindCSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white) |
+| 🧩 **UI & Components**  | ![Shadcn UI](https://img.shields.io/badge/Shadcn_UI-white?style=for-the-badge&logo=vercel&logoColor=black) ![HyperUI](https://img.shields.io/badge/HyperUI-38BDF8?style=for-the-badge&logo=tailwindcss&logoColor=white) ![Lucide](https://img.shields.io/badge/Lucide_Icons-000?style=for-the-badge&logo=lucide&logoColor=white) |
+| ⚙️ **Backend**          | ![Next.js API Routes](https://img.shields.io/badge/Next.js_API-000?style=for-the-badge&logo=next.js&logoColor=white)                                                                                                                        |
+| 🤖 **AI Model**         | ![Google Gemini API](https://img.shields.io/badge/Google_Gemini_API-4285F4?style=for-the-badge&logo=google&logoColor=white)                                                                                                                 |
+| 🔐 **Authentication**   | ![Clerk](https://img.shields.io/badge/Clerk-5C5CFF?style=for-the-badge&logo=clerk&logoColor=white)                                                                                                                                           |
+| 💾 **Database**         | ![Neon](https://img.shields.io/badge/Neon_DB-22C3E6?style=for-the-badge&logo=postgresql&logoColor=white)                                                                                                                                    |
+| ☁️ **Hosting**          | ![Vercel](https://img.shields.io/badge/Vercel-000?style=for-the-badge&logo=vercel&logoColor=white)                                                                                                                                           |
+| 🛡️ **Type Safety**      | ![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)                                                                                                                           |
+
 
 ---
 
@@ -69,18 +69,43 @@
 
 ---
 
-## 👨‍💻 Created By
+## 💬 **Contributing 🌍**
 
-Made with 💜 by **Soumojit Banerjee**
+We welcome all contributions! Here's how you can contribute:
 
-- 🐱 GitHub: [@SoumojitB](https://github.com/SoumojitB)
-- 💼 LinkedIn: [Soumojit Banerjee](https://linkedin.com/in/soumojit-banerjee)
+1. 🍴 Fork the repository.
+2. 🌿 Create a new branch:
+    ```bash
+    git checkout -b feature-branch
+    ```
+3. 🖊️ Commit your changes:
+    ```bash
+    git commit -m "Add your feature"
+    ```
+4. 🚀 Push the branch:
+    ```bash
+    git push origin feature-branch
+    ```
+5. 🔀 Open a pull request.
 
 ---
 
-## 📄 License
+## 📧 **Contact ✉️**
 
-This project is open source under the [MIT License](./LICENSE). Feel free to fork, contribute, or build your own ideas on top of it!
+For any questions or feedback, feel free to contact me:
+
+- 📧 Email: [soumojitbanerjee22@gmail.com](mailto:soumojitbanerjee22@gmail.com)
+
+---
+
+## 👨‍💻 **Made by [Soumojit Banerjee](https://www.linkedin.com/in/soumojit-banerjee-4914b3228/)** 💼
+
+Feel free to connect with me on:  
+🔗 [**LinkedIn**](https://www.linkedin.com/in/soumojit-banerjee-4914b3228/)  
+
+---
+
+## ❤️ **Special Thanks 🙏**
 
 ---
 
